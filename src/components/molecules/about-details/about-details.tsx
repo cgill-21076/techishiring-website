@@ -12,7 +12,7 @@ export default function AboutDetails() {
   return (
     <article className={"flex justify-center text-center lg:text-left text-lg lg:text-xl leading-[41px] py-0 lg:py-20 items-center flex-col gap-8 font-700 text-altDark "}>
         <DefaultText as={"p"} w={{base:"80%", lg:"70%"}}>
-          <b>TechIsHiring</b> tries to assist tech professionals in finding employment 
+          <b>Did I change this?</b><b>TechIsHiring</b> tries to assist tech professionals in finding employment 
           by encouraging meaningful interactions between people looking for employment 
           and those who can assist, rather than focusing primarily on advertising job openings.
         </DefaultText>
